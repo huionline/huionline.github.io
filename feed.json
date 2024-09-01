@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "livewell365",
+    "description": "",
+    "home_page_url": "https://huionline.github.io",
+    "feed_url": "https://huionline.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Hui"
+    },
+    "items": [
+        {
+            "id": "https://huionline.github.io/test-hello-world.html",
+            "url": "https://huionline.github.io/test-hello-world.html",
+            "title": "test  hello world",
+            "summary": "2024.9.1 heloo",
+            "content_html": "<p>2024.9.1</p>\n<p>heloo</p>",
+            "author": {
+                "name": "Hui"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-09-01T20:50:45+08:00",
+            "date_modified": "2024-09-01T20:50:45+08:00"
+        }
+    ]
+}
